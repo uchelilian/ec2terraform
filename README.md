@@ -1,1 +1,1 @@
-# ec2terraform
+# ec2terraformmodule
